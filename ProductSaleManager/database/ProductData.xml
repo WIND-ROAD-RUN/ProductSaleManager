@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ProductItemList>
+	<Product Name="phone1">
+		<Id>00-01-02</Id>
+		<Price>8848</Price>
+		<Label>药品</Label>
+		<Supplier>
+			<Name>HP</Name>
+			<Id>10-02-03</Id>
+			<Address>Beijing</Address>
+			<PhoneNumber>10086</PhoneNumber>
+			<IsLongTermSupply>true</IsLongTermSupply>
+		</Supplier>
+	</Product>
+	<Product Name="phone2">
+		<Id>00-01-03</Id>
+		<Price>8848</Price>
+		<Label>药品</Label>
+		<Supplier>
+			<Name>HP</Name>
+			<Id>10-02-03</Id>
+			<Address>Beijing</Address>
+			<PhoneNumber>10086</PhoneNumber>
+			<IsLongTermSupply>true</IsLongTermSupply>
+		</Supplier>
+	</Product>
+</ProductItemList>
