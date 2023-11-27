@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<ProductItemList>
+	<Product Name="phone1">
+		<Id>100102</Id>
+		<Price>8848</Price>
+		<Label>药品</Label>
+		<Supplier>
+			<Name>HP</Name>
+			<Id>10-02-03</Id>
+			<Address>Beijing</Address>
+			<PhoneNumber>10086</PhoneNumber>
+			<IsLongTermSupply>true</IsLongTermSupply>
+		</Supplier>
+	</Product>
+	<Product Name="phone2">
+		<Id>100103</Id>
+		<Price>8848</Price>
+		<Label>药品</Label>
+		<Supplier>
+			<Name>HP</Name>
+			<Id>10-02-03</Id>
+			<Address>Beijing</Address>
+			<PhoneNumber>10086</PhoneNumber>
+			<IsLongTermSupply>true</IsLongTermSupply>
+		</Supplier>
+	</Product>
+	<Product Name="apple">
+		<Id>100104</Id>
+		<Price>123</Price>
+		<Label>药品</Label>
+		<Supplier>
+			<Name>oi</Name>
+			<Id>101092</Id>
+			<Address>kdsjakwd</Address>
+			<PhoneNumber>16237162738</PhoneNumber>
+			<IsLongTermSupply>true</IsLongTermSupply>
+		</Supplier>
+	</Product>
+	<Product Name="banana">
+		<Id>1000005</Id>
+		<Price>78</Price>
+		<Label>日用品</Label>
+		<Supplier>
+			<Name>fruit</Name>
+			<Id>100000067</Id>
+			<Address>tianjing</Address>
+			<PhoneNumber>1289347198</PhoneNumber>
+			<IsLongTermSupply>false</IsLongTermSupply>
+		</Supplier>
+	</Product>
+</ProductItemList>
